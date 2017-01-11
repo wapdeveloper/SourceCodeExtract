@@ -8,11 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/delete.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/emoticon_smile.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/folder_close_arrow.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/folder_go.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/folder_open_arrow.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/tick.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("extract_128px_1152384_easyicon.net.ico")]
 
 

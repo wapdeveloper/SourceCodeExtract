@@ -33,6 +33,10 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>extract_128px_1152384_easyicon.net.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -94,14 +98,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <Resource Include="Images\16_16\delete.png" />
-    <Resource Include="Images\16_16\emoticon_smile.png" />
-    <Resource Include="Images\16_16\folder_close_arrow.png" />
-    <Resource Include="Images\16_16\folder_go.png" />
-    <Resource Include="Images\16_16\folder_open_arrow.png" />
-    <Resource Include="Images\16_16\tick.png" />
+    <Resource Include="20170111073900419_easyicon_net_32.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="extract_128px_1152384_easyicon.net.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
