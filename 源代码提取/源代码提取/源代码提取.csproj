@@ -34,8 +34,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>extract_128px_1152384_easyicon.net.ico</ApplicationIcon>
+    <ApplicationIcon>extract.ico</ApplicationIcon>
   </PropertyGroup>
+  <PropertyGroup />
   <PropertyGroup />
   <ItemGroup>
     <Reference Include="System" />
@@ -99,10 +100,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="20170111073900419_easyicon_net_32.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="extract_128px_1152384_easyicon.net.ico" />
+    <Resource Include="extract.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
