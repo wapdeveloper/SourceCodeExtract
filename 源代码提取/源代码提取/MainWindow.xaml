@@ -39,7 +39,7 @@
                 <StackPanel Grid.Row="3" Grid.RowSpan="2">
                     <TextBlock Text="提取任意文件" HorizontalAlignment="Center"  Width="100" FontSize="16"></TextBlock>
                     <TextBlock Text=" 输入文件后缀，并以','分隔" HorizontalAlignment="Center"  Width="204" Margin="155,0.2,59,0" FontSize="16"></TextBlock>
-                    <TextBox HorizontalAlignment="Center" Width="141" Margin="163,0,122,0" FontSize="16"></TextBox>
+                    <TextBox Name="txt1" HorizontalAlignment="Center" Width="141" Margin="163,0,122,0" FontSize="16"></TextBox>
                 </StackPanel>
             </Grid>
         </Grid>
