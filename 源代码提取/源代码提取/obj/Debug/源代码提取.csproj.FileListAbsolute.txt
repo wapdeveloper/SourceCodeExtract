@@ -1,0 +1,39 @@
+c:\users\augurit\documents\visual studio 2013\Projects\源代码提取\源代码提取\bin\Debug\源代码提取.exe.config
+c:\users\augurit\documents\visual studio 2013\Projects\源代码提取\源代码提取\bin\Debug\源代码提取.exe
+c:\users\augurit\documents\visual studio 2013\Projects\源代码提取\源代码提取\bin\Debug\源代码提取.pdb
+c:\users\augurit\documents\visual studio 2013\Projects\源代码提取\源代码提取\obj\Debug\源代码提取.csprojResolveAssemblyReference.cache
+c:\users\augurit\documents\visual studio 2013\Projects\源代码提取\源代码提取\obj\Debug\MainWindow.baml
+c:\users\augurit\documents\visual studio 2013\Projects\源代码提取\源代码提取\obj\Debug\MainWindow.g.cs
+c:\users\augurit\documents\visual studio 2013\Projects\源代码提取\源代码提取\obj\Debug\App.g.cs
+c:\users\augurit\documents\visual studio 2013\Projects\源代码提取\源代码提取\obj\Debug\源代码提取_MarkupCompile.cache
+c:\users\augurit\documents\visual studio 2013\Projects\源代码提取\源代码提取\obj\Debug\源代码提取.g.resources
+c:\users\augurit\documents\visual studio 2013\Projects\源代码提取\源代码提取\obj\Debug\源代码提取.Properties.Resources.resources
+c:\users\augurit\documents\visual studio 2013\Projects\源代码提取\源代码提取\obj\Debug\源代码提取.csproj.GenerateResource.Cache
+c:\users\augurit\documents\visual studio 2013\Projects\源代码提取\源代码提取\obj\Debug\源代码提取.exe
+c:\users\augurit\documents\visual studio 2013\Projects\源代码提取\源代码提取\obj\Debug\源代码提取.pdb
+C:\Users\HARRY\Desktop\源代码提取\源代码提取\bin\Debug\源代码提取.exe.config
+C:\Users\HARRY\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取.exe
+C:\Users\HARRY\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取.pdb
+C:\Users\HARRY\Desktop\源代码提取\源代码提取\bin\Debug\源代码提取.exe
+C:\Users\HARRY\Desktop\源代码提取\源代码提取\bin\Debug\源代码提取.pdb
+C:\Users\HARRY\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取.csprojResolveAssemblyReference.cache
+C:\Users\HARRY\Desktop\源代码提取\源代码提取\obj\Debug\MainWindow.baml
+C:\Users\HARRY\Desktop\源代码提取\源代码提取\obj\Debug\MainWindow.g.cs
+C:\Users\HARRY\Desktop\源代码提取\源代码提取\obj\Debug\App.g.cs
+C:\Users\HARRY\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取_MarkupCompile.cache
+C:\Users\HARRY\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取.g.resources
+C:\Users\HARRY\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取.Properties.Resources.resources
+C:\Users\HARRY\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取.csproj.GenerateResource.Cache
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\bin\Debug\源代码提取.exe.config
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取.exe
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取.pdb
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\bin\Debug\源代码提取.exe
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\bin\Debug\源代码提取.pdb
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取.csprojResolveAssemblyReference.cache
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Debug\MainWindow.baml
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Debug\MainWindow.g.cs
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Debug\App.g.cs
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取_MarkupCompile.cache
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取.g.resources
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取.Properties.Resources.resources
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Debug\源代码提取.csproj.GenerateResource.Cache

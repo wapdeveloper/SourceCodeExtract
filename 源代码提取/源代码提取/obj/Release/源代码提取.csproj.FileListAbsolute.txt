@@ -1,0 +1,13 @@
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\bin\Release\源代码提取.exe.config
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\bin\Release\源代码提取.exe
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\bin\Release\源代码提取.pdb
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Release\源代码提取.csprojResolveAssemblyReference.cache
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Release\MainWindow.baml
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Release\MainWindow.g.cs
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Release\App.g.cs
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Release\源代码提取_MarkupCompile.cache
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Release\源代码提取.g.resources
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Release\源代码提取.Properties.Resources.resources
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Release\源代码提取.csproj.GenerateResource.Cache
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Release\源代码提取.exe
+C:\Users\Augurit\Desktop\源代码提取\源代码提取\obj\Release\源代码提取.pdb
