@@ -24,3 +24,16 @@ C:\Users\HARRY\Desktop\源代码提取\源代码提取\bin\Release\源代码提�
 C:\Users\HARRY\Desktop\源代码提取\源代码提取\bin\Release\源代码提取.pdb
 C:\Users\HARRY\Desktop\源代码提取\源代码提取\obj\Release\源代码提取.Properties.Resources.resources
 C:\Users\HARRY\Desktop\源代码提取\源代码提取\obj\Release\源代码提取.csproj.GenerateResource.Cache
+C:\Users\Augurit\Documents\GitHub\SourceCodeExtract\源代码提取\源代码提取\bin\Release\源代码提取.exe.config
+C:\Users\Augurit\Documents\GitHub\SourceCodeExtract\源代码提取\源代码提取\obj\Release\源代码提取.exe
+C:\Users\Augurit\Documents\GitHub\SourceCodeExtract\源代码提取\源代码提取\obj\Release\源代码提取.pdb
+C:\Users\Augurit\Documents\GitHub\SourceCodeExtract\源代码提取\源代码提取\bin\Release\源代码提取.exe
+C:\Users\Augurit\Documents\GitHub\SourceCodeExtract\源代码提取\源代码提取\bin\Release\源代码提取.pdb
+C:\Users\Augurit\Documents\GitHub\SourceCodeExtract\源代码提取\源代码提取\obj\Release\源代码提取.csprojResolveAssemblyReference.cache
+C:\Users\Augurit\Documents\GitHub\SourceCodeExtract\源代码提取\源代码提取\obj\Release\MainWindow.baml
+C:\Users\Augurit\Documents\GitHub\SourceCodeExtract\源代码提取\源代码提取\obj\Release\MainWindow.g.cs
+C:\Users\Augurit\Documents\GitHub\SourceCodeExtract\源代码提取\源代码提取\obj\Release\App.g.cs
+C:\Users\Augurit\Documents\GitHub\SourceCodeExtract\源代码提取\源代码提取\obj\Release\源代码提取_MarkupCompile.cache
+C:\Users\Augurit\Documents\GitHub\SourceCodeExtract\源代码提取\源代码提取\obj\Release\源代码提取.g.resources
+C:\Users\Augurit\Documents\GitHub\SourceCodeExtract\源代码提取\源代码提取\obj\Release\源代码提取.Properties.Resources.resources
+C:\Users\Augurit\Documents\GitHub\SourceCodeExtract\源代码提取\源代码提取\obj\Release\源代码提取.csproj.GenerateResource.Cache
